@@ -1,0 +1,94 @@
+{
+  "water": {
+    "Classification": "Safe",
+    "Reason": "Inert carrier, non‑toxic and non‑irritating."
+  },
+  "eau": {
+    "Classification": "Safe",
+    "Reason": "French for water; same safety profile."
+  },
+  "sodium lauryl sulfate": {
+    "Classification": "Caution advised",
+    "Reason": "Effective surfactant but can irritate skin and eyes, especially with prolonged use."
+  },
+  "sodium laureth sulfate": {
+    "Classification": "Safe",
+    "Reason": "Milder surfactant; low irritation at typical use levels."
+  },
+  "cocamidopropyl betain": {
+    "Classification": "Safe",
+    "Reason": "Mild amphoteric surfactant, generally well tolerated."
+  },
+  "glycol distearate": {
+    "Classification": "Safe",
+    "Reason": "Emollient and thickener with low toxicity."
+  },
+  "dimethicone": {
+    "Classification": "Safe",
+    "Reason": "Silicone polymer; inert and non‑irritating."
+  },
+  "sodium citrate": {
+    "Classification": "Safe",
+    "Reason": "pH adjuster; low toxicity."
+  },
+  "cocamide mea": {
+    "Classification": "Caution advised",
+    "Reason": "Can be a mild irritant or allergen for sensitive individuals."
+  },
+  "sodium xylenesulfonate": {
+    "Classification": "Safe",
+    "Reason": "Anionic surfactant with low irritation potential."
+  },
+  "fragrancei": {
+    "Classification": "Caution advised",
+    "Reason": "Complex mixture; potential allergens and sensitizers."
+  },
+  "parfum": {
+    "Classification": "Caution advised",
+    "Reason": "Same as fragrance; may cause allergic reactions."
+  },
+  "citric acid": {
+    "Classification": "Safe",
+    "Reason": "pH regulator; generally non‑irritating at cosmetic levels."
+  },
+  "sodium benzoate": {
+    "Classification": "Safe",
+    "Reason": "Preservative with low toxicity in rinse‑off products."
+  },
+  "polyquaternium-76": {
+    "Classification": "Safe",
+    "Reason": "Polymer used for conditioning; low toxicity and widely accepted in rinse‑off cosmetics."
+  },
+  "sodium chloride": {
+    "Classification": "Safe",
+    "Reason": "Common salt; inert in cosmetic concentrations."
+  },
+  "tetrasodium edta": {
+    "Classification": "Safe",
+    "Reason": "Chelating agent; low toxicity and not a skin irritant."
+  },
+  "panthenol": {
+    "Classification": "Safe",
+    "Reason": "Pro‑vitamin B5; moisturizing and non‑irritating, widely used in personal care."
+  },
+  "panthenyl ethyl ether": {
+    "Classification": "Safe",
+    "Reason": "Derivative of panthenol; similar safety profile."
+  },
+  "methylchloroisothiazolinone": {
+    "Classification": "Unsafe",
+    "Reason": "Potent preservative linked to severe skin sensitization; restricted or banned in many products."
+  },
+  "methylisothiazolinone": {
+    "Classification": "Unsafe",
+    "Reason": "Known strong allergen; banned in many leave‑on and rinse‑off cosmetics due to high sensitization risk."
+  },
+  "cocamidopropyl betaine": {
+    "Classification": "Caution advised",
+    "Reason": "Mild surfactant; generally safe but can cause allergic contact dermatitis in sensitive individuals."
+  },
+  "fragrance/parfum": {
+    "Classification": "Caution advised",
+    "Reason": "Mixture of aromatic chemicals; common source of skin sensitization and allergic reactions."
+  }
+}
